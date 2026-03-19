@@ -1,2 +1,2 @@
 # pagoda-api
-Software for pagodo
+Software for pagoda
